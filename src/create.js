@@ -45,7 +45,7 @@ async function create(appName, options) {
   console.log(
     logSymbols.info,
     chalk.bold.whiteBright.bgBlack(
-      "Hello，我是耀哥，欢迎使用「lg-umijs-cli」脚手架!!!"
+      "Hello，我是Leo，欢迎使用「lg-umijs-cli」脚手架!!!"
     )
   );
   // 模板选择
